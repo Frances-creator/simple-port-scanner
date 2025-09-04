@@ -1,0 +1,21 @@
+# Simple Port Scanner Requirements
+# No external Python packages required - uses only standard library
+
+# Standard library modules used:
+# - socket (network connections)
+# - threading (concurrent scanning)
+# - argparse (command-line interface)
+# - subprocess (nmap integration)
+# - json (data handling)
+# - time (timing operations)
+# - datetime (timestamps)
+# - sys (system operations)
+
+# Optional external tools:
+# - nmap (for result comparison)
+#   Ubuntu/Debian: sudo apt-get install nmap
+#   macOS: brew install nmap
+#   Windows: Download from https://nmap.org/download.html
+
+# Python version requirement
+# python>=3.6
