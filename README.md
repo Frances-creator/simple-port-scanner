@@ -154,14 +154,4 @@ Performance optimizations
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Author
-[Your Name]
-
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
-Email: your.email@example.com
-🙏 Acknowledgments
-Inspired by Nmap and other network scanning tools
-Python community for excellent documentation
-Cybersecurity community for best practices
-This project demonstrates practical application of networking concepts and cybersecurity fundamentals using Python. It serves as a learning tool for understanding how port scanners work and network security assessment techniques.
-
+[Jane Frances]
